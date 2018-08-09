@@ -7,4 +7,6 @@ You worked for the monsters (whether willingly or not) until you saw your chance
 # Experiment
 You were subject to procedures that you couldn't count or remember. At least you got powers to fight back
 # Techie
-The invanders brought all sorts of new tech and you cant wait to mess with it.
+The invaders brought all sorts of new tech and you cant wait to mess with it.
+# Theurgist
+The world has laws that are just being discovered buy humaninity, the opposition may have a head start when has that stopped you 

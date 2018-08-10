@@ -1,9 +1,16 @@
 # Riders
 Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_Wiki)
-The Rider playbook represet heroes who act on more grounded scale than some of the other playbooks. The stakes of a Rider game are more likely to start smaller with the Villians acts being forcused on more Political Mechanictions compared to the world shattering stakes of Piliots or Giants. Additionally th
+
+The Rider playbook represent heroes who act on more grounded scale than some of the other playbooks. The stakes of a Rider game are more likely to start smaller with the Villains acts being focused on more Political Mechanizations compared to the world shattering stakes of Pilots or Giants. Additionally in terms of visiting other realms of existence riders have the least interaction with those.
 # Scouts
-Inspirational Media: [Sailer Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki) 
+Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki)
+
+The Scout playbook focuses on the interactions of multiple realms of existence and how their inhabitants interarct with the residents of our realm. Scouts have often a local approach to dealing with Villains
 # Pilots
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)
+
+Pilots are front and center, dealing with global scale problems right from the start. However they are not always the first to interact with the other planes
 # Giants
 Inspirational Media: [Ultra Series](http://ultra.wikia.com/wiki/Ultraman_Wiki)
+
+Giants deal in multiple worlds. Both in the multiple realms of existence and in global scale conflicts

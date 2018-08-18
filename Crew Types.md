@@ -15,12 +15,13 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 # Pilots
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)
 
+Pilots are front and center, dealing with global scale problems right from the start. However they are not always the first to interact with the other planes
 ## Special Abilities
 ### Synchronized
 
 When you perform a **group action**, you may count multiple 6s from different rolls as a <span class="game-term">critical</span> success.
 
-Pilots are front and center, dealing with global scale problems right from the start. However they are not always the first to interact with the other planes
+
 # Giants
 Inspirational Media: [Ultra Series](http://ultra.wikia.com/wiki/Ultraman_Wiki)
 

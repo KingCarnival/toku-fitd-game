@@ -7,6 +7,6 @@ In (game-name) the PC represent a team of people that stand against some force t
 Final End Boss
 
 ### Lieutenants
-Lieutenants are the people oversee and carry out the various actions of the Big Bad (if there is one, see sidebar No Honour pg.xx). As such they are forces the PCs will have to do battle with the most. However, Each Lieutenant has their own specility, personality and tactics, which means that they are often at cross perose with one another even if they have the same goals.  This is delibrate to let the players take advantage of enemy infighting.
+Lieutenants are the people oversee and carry out the various actions of the Big Bad (if there is one, see sidebar No Honor pg.xx). As such they are forces the PCs will have to do battle with the most. However, Each Lieutenant has their own specialty, personality and tactics, which means that they are often at cross perose with one another even if they have the same goals.  This is deliberate to let the players take advantage of enemy infighting.
 
-#### Creating Lieutenats
+#### Creating Lieutenants

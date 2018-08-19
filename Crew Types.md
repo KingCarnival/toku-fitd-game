@@ -5,6 +5,7 @@ The Rider playbook represent heroes who act on more grounded scale than some of 
 
 ## Special Abilities
 
+
 # Scouts
 Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki)
 

@@ -1,5 +1,5 @@
 # Ire
-As the crew continues to perform missions they are inevitably going to pick up the attention of the various lieutenants. As begin to affect the goals of the enemy the more they will begin to focus efforts on
+As the crew continues to perform missions they are inevitably going to pick up the attention of the various lieutenants. As begin to affect the goals of these lieutenants the more they will begin to focus efforts on destroying your crew.
 
 ## Ire levels
 * <span class="game-term">0 Ire:</span> Smooth &amp; quiet; low exposure.
@@ -7,6 +7,6 @@ As the crew continues to perform missions they are inevitably going to pick up t
 * <span class="game-term">4 Ire: </span>Loud &amp; chaotic; high exposure.
 * <span class="game-term">6 Ire:</span> Wild; devastating exposure.
 
-Add +1 <span class="game-term">Ire</span> for a high-profile or well-connected target. Add +1 <span class="game-term">Ire</span> if the situation happened on hostile turf. Add +1 <span class="game-term">Ire</span> if you’re at war with another faction. Add +2 <span class="game-term">heat</span> if killing was involved (whether the crew did the killing or not—bodies draw attention).
+Add +1 <span class="game-term">Ire</span> for a high-profile or well-connected target. Add +1 <span class="game-term">Ire</span> if the situation happened on hostile turf. Add +1 <span class="game-term">Ire</span> if you’re at war with another faction. Add +2 <span class="game-term">Ire</span> if killing was involved (whether the crew did the killing or not—bodies draw attention).
 
-You mark <span class="game-term">Ire</span> levels on the <span class="game-term">Ire</span> tracker on the crew sheet.
+You mark <span class="game-term">Ire</span> levels on the <span class="game-term">Ire</span> tracker for the Lieutenant who operations where most effected by the mission.

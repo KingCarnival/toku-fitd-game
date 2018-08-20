@@ -1,4 +1,6 @@
 # Crew Types
+
+Crew playbooks give the player characters both a unified set of Abilities and themes.
 ## Riders
 Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_Wiki)
 

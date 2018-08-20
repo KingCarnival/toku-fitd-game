@@ -2,6 +2,19 @@
 
 ## Action Rations
 
+* Hack 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 ## Action Rolls
 
 ## Attributes

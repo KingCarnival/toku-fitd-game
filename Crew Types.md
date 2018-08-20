@@ -12,7 +12,7 @@ The Rider playbook represent heroes who act on more grounded scale than some of 
 * Bikes
 
 ### Rider Missions
-* T
+* There have been a series of abductions all across the city,
 
 ## Scouts
 Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki)
@@ -24,6 +24,7 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 ### Group Items
 
 ### Scout Missions
+* Some inhabitants of another world are working with those in this world to smuggle goods.
 
 ## Pilots
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)

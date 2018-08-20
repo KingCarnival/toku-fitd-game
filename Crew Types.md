@@ -11,6 +11,9 @@ The Rider playbook represent heroes who act on more grounded scale than some of 
 ### Group Items
 * Bikes
 
+### Rider Missions
+* T
+
 ## Scouts
 Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki)
 
@@ -19,6 +22,8 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 ### Special Abilities
 
 ### Group Items
+
+### Scout Missions
 
 ## Pilots
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)
@@ -32,6 +37,8 @@ When you perform a **group action**, you may count multiple 6s from different ro
 ### Group Items
 * Set of themed Giant Robots
 
+### Pilot Missions
+
 ## Giants
 Inspirational Media: [Ultra Series](http://ultra.wikia.com/wiki/Ultraman_Wiki)
 
@@ -40,3 +47,5 @@ Giants deal in multiple worlds. Both in the multiple realms of existence and in 
 ### Special Abilities
 
 ### Group Items
+
+### Giant Missions

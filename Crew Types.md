@@ -9,7 +9,7 @@ The Rider playbook represent heroes who act on more grounded scale than some of 
 # Scouts
 Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki)
 
-The Scout playbook focuses on the interactions of multiple realms of existence and how their inhabitants interarct with the residents of our realm. Scouts have often a local approach to dealing with Villains
+The Scout playbook focuses on the interactions of multiple realms of existence and how their inhabitants interact with the residents of our realm. Scouts have often a local approach to dealing with Villains
 
 ## Special Abilities
 

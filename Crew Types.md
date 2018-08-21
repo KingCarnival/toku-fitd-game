@@ -24,7 +24,7 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 ### Group Items
 
 ### Scout Missions
-* Some inhabitants of another world are working with those in this world to smuggle goods.
+* Some inhabitants of another world are working with those in this world to smuggle goods between worlds.  Who are the actors on both sides and what are there reasons for doing so?
 
 ## Pilots
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)
@@ -50,3 +50,4 @@ Giants deal in multiple worlds. Both in the multiple realms of existence and in 
 ### Group Items
 
 ### Giant Missions
+* The heir apparenet of another world is partying on Earth, there are rumors of an assassination attempt will be made on them. Why and who are after the heir.

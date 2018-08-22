@@ -7,6 +7,12 @@ Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_
 The Rider playbook represent heroes who act on more grounded scale than some of the other playbooks. The stakes of a Rider game are more likely to start smaller with the Villains acts being focused on more Political Mechanizations compared to the world shattering stakes of Pilots or Giants. Additionally in terms of visiting other realms of existence riders have the least interaction with those.
 
 ### Special Abilities
+#### Forged in the fire
+
+Each PC has been toughened by cruel experience. You get **+1d** to **resistance** rolls.
+
+> This ability applies to PCs in the crew. It doesn’t confer any special toughness to your cohorts.
+
 
 ### Group Items
 * Bikes
@@ -15,7 +21,7 @@ The Rider playbook represent heroes who act on more grounded scale than some of 
 * There have been a series of abductions all across the city,
 
 ## Scouts
-Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki)
+Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki), [Cardcapter Sakura](http://ccsakura.wikia.com/wiki/Cardcaptor_Sakura_Wiki)
 
 The Scout playbook focuses on the interactions of multiple realms of existence and how their inhabitants interact with the residents of our realm. Scouts have often a local approach to dealing with Villains
 

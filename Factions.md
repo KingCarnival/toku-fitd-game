@@ -17,6 +17,7 @@ Local political parties, High School Paranormal Club
 ### Business
 Business is a catch all term for any sort of for profit organization that has influence
 #### Examples
+Genetic Engineering Company, Quirky Startup
 
 ## Tier
 Each notable faction is ranked by **Tier**—a measure of wealth, influence, and scale. At the highest level are the Tier V and VI factions, the true powers of the city. Your crew begins at Tier 0.

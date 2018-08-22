@@ -26,3 +26,5 @@ There are 12 **actions** in the game that the player characters use to overcome 
 ## Resistance Roll
 
 ## Actions
+
+When you <span class="game-term">Attune</span>, you allow the mystic laws to flow through you.

@@ -56,4 +56,4 @@ Giants deal in multiple worlds. Both in the multiple realms of existence and in 
 ### Group Items
 
 ### Giant Missions
-* The heir apparenet of another world is partying on Earth, there are rumors of an assassination attempt will be made on them. Why and who are after the heir.
+* The heir apparent of another world is partying on Earth, there are rumors of an assassination attempt will be made on them. Why and who are after the heir.

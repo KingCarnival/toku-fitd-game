@@ -2,6 +2,11 @@
 Tokusatsu Forged in the Dark
 
 # Changelog
+## 08/22/18
+* Factions
+* Sample setting page
+* Action/Attributes
+
 ## 08/18/2018
 * Basic concepts for Ire (Heat Modification)
 

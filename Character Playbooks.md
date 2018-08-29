@@ -16,7 +16,8 @@ You worked for the monsters (whether willingly or not) until you saw your chance
 
 #### Connected
 During downtime, you get **+1 result level** when you **acquire an asset** or **reduce ire**.
-> 
+> blah
+
 #### Hedonist
 When you indulge your vice, you may adjust the dice outcome by +/-2. An ally who joins you may do the same.
 > Any ally must join you in whatever vice you’re indulging. You can adjust the outcome by less than 2, or not adjust it at all. You can also recover more than 6 stress on a vice roll this way.

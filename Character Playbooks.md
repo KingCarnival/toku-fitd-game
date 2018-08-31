@@ -24,7 +24,7 @@ blah
 
 blah 2
 
-####  Veteran
+#### Veteran
 
 Choose a special ability from another source.
 
@@ -76,6 +76,7 @@ Choose a special ability from another source.
 ## Theurgist
 
 The world has laws that are just being discovered buy humanity, the opposition may have a head start when has that stopped you
+
 ### Starting Ability
 
 ### Special Abilities

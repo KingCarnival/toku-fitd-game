@@ -15,3 +15,5 @@ Final End Boss
 <span class="game-term">Lieutenants</span> are the people oversee and carry out the various actions of the Big Bad (if there is one, see sidebar No Honor pg.xx). As such they are forces the PCs will have to do battle with the most. However, Each Lieutenant has their own specialty, personality and tactics, which means that they are often at cross purpose with one another even if they have the same goals.  This is deliberate to let the players take advantage of enemy infighting.
 
 #### Creating Lieutenants
+
+There should be one Lieutenant for every player in the game.

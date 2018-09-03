@@ -1,7 +1,9 @@
 # Ire
+
 As the crew continues to perform missions they are inevitably going to pick up the attention of the various lieutenants. As begin to affect the goals of these lieutenants the more they will begin to focus efforts on destroying your crew.
 
 ## Ire levels
+
 * <span class="game-term">0 Ire:</span> Smooth &amp; quiet; low exposure.
 * <span class="game-term">2 Ire:</span> Contained; standard exposure.
 * <span class="game-term">4 Ire: </span>Loud &amp; chaotic; high exposure.

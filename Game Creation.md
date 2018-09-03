@@ -16,4 +16,4 @@ Final End Boss
 
 #### Creating Lieutenants
 
-There should be one Lieutenant for every player in the game.
+There should be 3-5 Lieutenants in the game. 

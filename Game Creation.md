@@ -2,6 +2,18 @@
 
 When playing (game-name) the first thing the players need to do is create the world in which they will play.
 
+## Overview
+
+A basic overview of the process is listed bellow, If you group does not have an answer for each steep don't worry. Just make note of if to come once other parts are complete.
+
+Game Creation has () steps:
+
+    1. Decide if to use a competley fictional setting or one based in reality
+    2. Come up with the basic rules of magic/superscience in your game world
+    3
+    4
+    5
+
 ## Creating the Opposition
 
 In (game-name) the PC represent a team of people that stand against some force that wishes to take over and shape the world to their desires. The players and GM work together to create this opposition force, as this helps to create both the world the game takes place in and the factions at work in the world.

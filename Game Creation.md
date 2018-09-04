@@ -8,7 +8,7 @@ A basic overview of the process is listed bellow, If you group does not have an 
 
 Game Creation has () steps:
 
-    1. Decide if to use a competley fictional setting or one based in reality
+    1. Decide if to use a completely fictional setting or one based in reality
     2. Come up with the basic rules of magic/superscience in your game world
     3
     4

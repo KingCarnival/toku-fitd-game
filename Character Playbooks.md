@@ -6,6 +6,9 @@ You are the muscle. The first to charge the line of the monsters and the last to
 
 ### Starting Ability
 
+#### Unstoppable
+
+
 ### Special Abilities
 
 #### Veteran

@@ -79,6 +79,12 @@ The invaders brought all sorts of new tech and you cant wait to mess with it.
 
 ### Starting Ability
 
+#### Tinker
+
+When you work on a clock with **RIG** or **HACK** , or when you **STUDY** a schematic, fill +1 segment.
+
+> You get this bonus segment regardless of whether this is a downtime action or not. This means that bypassing security on a job or doing an emergency patch while escaping a chasing ship is easier for you than others.
+
 ### Special Abilities
 
 #### Veteran

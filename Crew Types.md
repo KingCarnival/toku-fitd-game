@@ -4,6 +4,10 @@ Crew playbooks give the player characters both a unified set of Abilities and th
 
 ## Crew Upgrades
 
+#### Specialized Forms
+
+You have 3 specialized forms for different tasks (ie Underwater Combat, Stealthy, etc.). When in one of these forms and acting in that specialty you gain **potency**. Decide the specialties when this upgrade is purchased.
+
 ## Riders
 
 Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_Wiki)

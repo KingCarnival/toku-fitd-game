@@ -27,7 +27,9 @@ Your methods might seem unorthodox but people can't argue with your results
 
 ### Starting Ability
 
-blah
+#### Devil's Own Luck
+
+Your crew starts with **+1 gambit** when the pool resets
 
 ### Special Abilities
 
@@ -79,9 +81,9 @@ The invaders brought all sorts of new tech and you cant wait to mess with it.
 
 ### Starting Ability
 
-#### Tinker
+#### Gearhead
 
-When you work on a clock with **RIG** or **HACK** , or when you **STUDY** a schematic, fill +1 segment.
+When you work on a clock with **TINKER** or **HACK** , or when you **STUDY** a schematic, fill +1 segment.
 
 > You get this bonus segment regardless of whether this is a downtime action or not. This means that bypassing security on a job or doing an emergency patch while escaping a chasing ship is easier for you than others.
 

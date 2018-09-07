@@ -10,9 +10,9 @@ There are 12 **actions** in the game that the player characters use to overcome 
 * Command
 * Consort
 * Finesse
-* Hunt
-* Prowl
-* Skirmish
+* Hack
+* Hustle
+* Rumble
 * Study
 * Survey
 * Sway

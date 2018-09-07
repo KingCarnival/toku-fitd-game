@@ -1,12 +1,16 @@
 # Crew Types
 
-Crew playbooks give the player characters both a unified set of Abilities and themes.
+Crew playbooks give the player characters both a unified set of Abilities and themes. Additionally the playbook helps to give a focus for the types of missions the PCs take. Each playbook is a reflection on how the PC received their powers form the Source.
+
+## Crew Upgrades
 
 ## Riders
 
 Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_Wiki)
 
 The Rider playbook represent heroes who act on more grounded scale than some of the other playbooks. The stakes of a Rider game are more likely to start smaller with the Villains acts being focused on more Political Mechanizations compared to the world shattering stakes of Pilots or Giants. Additionally in terms of visiting other realms of existence riders have the least interaction with those.
+
+### Rider Upgrades
 
 ### Special Abilities
 
@@ -30,6 +34,8 @@ Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_
 
 The Scout playbook focuses on the interactions of multiple realms of existence and how their inhabitants interact with the residents of our realm. Scouts have often a local approach to dealing with Villains
 
+### Scout Upgrades
+
 ### Special Abilities
 
 ### Group Items
@@ -43,6 +49,8 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)
 
 Pilots are front and center, dealing with global scale problems right from the start. However they are not always the first to interact with the other planes
+
+### Pilots Upgrades
 
 ### Special Abilities
 
@@ -61,6 +69,8 @@ When you perform a **group action**, you may count multiple 6s from different ro
 Inspirational Media: [Ultra Series](http://ultra.wikia.com/wiki/Ultraman_Wiki)
 
 Giants deal in multiple worlds. Both in the multiple realms of existence and in global scale conflicts
+
+### Giant Upgrades
 
 ### Special Abilities
 

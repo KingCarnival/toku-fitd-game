@@ -20,9 +20,11 @@ The first thing that should be done when creating a game is to establish the bou
 
 ### Lines
 
-Lines represent the topics that **should not** come up in play in at.
+Lines represent the topics that **should not** come up in play in at. This means both onscreen and offscreen. This doesn't mean that their can not be dark themes at play in the campaign its just the Lines represent issues that will cause harm in at least one of the players
 
 ### Veils
+
+Veil on the other hand are topics that should only come up in fade to black or panning away moments. Its fine for these to be in the story, but they should never come up in graphic detail.
 
 ### X-Card
 

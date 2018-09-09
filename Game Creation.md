@@ -8,11 +8,23 @@ A basic overview of the process is listed bellow, If you group does not have an 
 
 Game Creation has () steps:
 
-    1. Decide if to use a completely fictional setting or one based in reality
-    2. Come up with the basic rules of magic/superscience in your game world
-    3
-    4
-    5
+    1. Establish Lines and a Veils
+    2. Come up with the basic rules of magic/super-science in your game world
+    3. Create the Opposition
+    4. Create some neutral Factions for the setting
+    5.
+
+## Lines and Veils
+
+The first thing that should be done when creating a game is to establish the boundaries and topics that each player (and this of course includes the GM) is comfortable with.
+
+### Lines
+
+Lines represent the topics that **should not** come up in play in at.
+
+### Veils
+
+### X-Card
 
 ## Creating the Opposition
 

@@ -2,7 +2,18 @@
 
 Crew playbooks give the player characters both a unified set of Abilities and themes. Additionally the playbook helps to give a focus for the types of missions the PCs take. Each playbook is a reflection on how the PC received their powers form the Source.
 
+Crew|Relation to the Source
+---|---
+Riders| Experimented on with the Source
+Scouts| Powers delivered from a representative from/or the Source
+Pilots|
+Giant| Empowered directly form the Source
+
 ## Crew Upgrades
+
+#### Specialized Forms
+
+You have 3 specialized forms for different tasks (ie Underwater Combat, Stealthy, etc.). When in one of these forms and acting in that specialty you gain **potency**. Decide the specialties when this upgrade is purchased.
 
 ## Riders
 

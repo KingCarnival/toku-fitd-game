@@ -39,6 +39,14 @@ Each PC has been toughened by cruel experience. You get **+1d** to **resistance*
 
 * There have been a series of abductions all across the city,
 
+### Crew Contacts
+
+* Police Inspector
+* Crime Reporter
+* Local Politican
+* Local Crime Informer
+* Local Store Owner
+
 ## Scouts
 
 Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki), [Cardcapter Sakura](http://ccsakura.wikia.com/wiki/Cardcaptor_Sakura_Wiki)
@@ -54,6 +62,11 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 ### Scout Missions
 
 * Some inhabitants of another world are working with those in this world to smuggle goods between worlds.  Who are the actors on both sides and what are there reasons for doing so?
+
+### Crew Contacts
+
+* Another Denizan of the Source
+* 
 
 ## Pilots
 
@@ -75,6 +88,8 @@ When you perform a **group action**, you may count multiple 6s from different ro
 
 ### Pilot Missions
 
+### Crew Contacts
+
 ## Giants
 
 Inspirational Media: [Ultra Series](http://ultra.wikia.com/wiki/Ultraman_Wiki)
@@ -90,3 +105,5 @@ Giants deal in multiple worlds. Both in the multiple realms of existence and in 
 ### Giant Missions
 
 * The heir apparent of another world is partying on Earth, there are rumors of an assassination attempt will be made on them. Why and who are after the heir.
+
+### Crew Contacts

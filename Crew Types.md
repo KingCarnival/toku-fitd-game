@@ -49,6 +49,8 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 
 ### Special Abilities
 
+### Patron
+
 ### Group Items
 
 ### Scout Missions

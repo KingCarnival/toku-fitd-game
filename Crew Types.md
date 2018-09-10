@@ -44,7 +44,7 @@ Each PC has been toughened by cruel experience. You get **+1d** to **resistance*
 * Police Inspector
 * Crime Reporter
 * Local Politican
-* Local Crime Informer
+* Local Crime Informant
 * Local Store Owner
 
 ## Scouts

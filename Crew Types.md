@@ -109,3 +109,8 @@ Giants deal in multiple worlds. Both in the multiple realms of existence and in 
 * The heir apparent of another world is partying on Earth, there are rumors of an assassination attempt will be made on them. Why and who are after the heir.
 
 ### Crew Contacts
+
+* Military Officer
+* Research Scienctist
+* Government Covert-Ops Agent
+* Ambassador

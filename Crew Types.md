@@ -4,11 +4,10 @@ Crew playbooks give the player characters both a unified set of Abilities and th
 
 Crew|Relation to the Source
 ---|---
-Riders| Experemented on with the Source
-Scouts| Powers delivered from a representative Source
+Riders| Experimented on with the Source
+Scouts| Powers delivered from a representative from/or the Source
 Pilots|
 Giant| Empowered directly form the Source
-
 
 ## Crew Upgrades
 

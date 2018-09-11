@@ -6,7 +6,7 @@ Crew|Relation to the Source
 ---|---
 Riders| Experimented on with the Source
 Scouts| Powers delivered from a representative from/or the Source
-Pilots|
+Pilots| Stole power from the Source through unexpected or unauthorized means
 Giant| Empowered directly form the Source
 
 ## Crew Upgrades
@@ -19,7 +19,7 @@ You have 3 specialized forms for different tasks (ie Underwater Combat, Stealthy
 
 Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_Wiki)
 
-The Rider playbook represent heroes who act on more grounded scale than some of the other playbooks. The stakes of a Rider game are more likely to start smaller with the Villains acts being focused on more Political Mechanizations compared to the world shattering stakes of Pilots or Giants. Additionally in terms of visiting other realms of existence riders have the least interaction with those.
+Wheter willingly or not all Riders are expirements that involved the Source. As such they are opposited by those who wish to exploit the Source for their own purpose.
 
 ### Rider Upgrades
 
@@ -39,15 +39,25 @@ Each PC has been toughened by cruel experience. You get **+1d** to **resistance*
 
 * There have been a series of abductions all across the city,
 
+### Crew Contacts
+
+* Police Inspector
+* Crime Reporter
+* Local Politican
+* Local Crime Informant
+* Local Store Owner
+
 ## Scouts
 
 Inspirational Media: [Sailor Moon](http://sailormoon.wikia.com/wiki/Sailor_Moon_Wiki), [Pretty Cure](http://prettycure.wikia.com/wiki/Pretty_Cure_Wiki), [Magical Girl Lyrical Nanoha](http://nanoha.wikia.com/wiki/Magical_Girl_Lyrical_Nanoha_Wiki), [Cardcapter Sakura](http://ccsakura.wikia.com/wiki/Cardcaptor_Sakura_Wiki)
 
-The Scout playbook focuses on the interactions of multiple realms of existence and how their inhabitants interact with the residents of our realm. Scouts have often a local approach to dealing with Villains
+Scouts are given thier power by a representative of the Source. As a result of such their opposition willy likely deal with the politics of the people of the Source.
 
 ### Scout Upgrades
 
 ### Special Abilities
+
+### Patron
 
 ### Group Items
 
@@ -55,11 +65,16 @@ The Scout playbook focuses on the interactions of multiple realms of existence a
 
 * Some inhabitants of another world are working with those in this world to smuggle goods between worlds.  Who are the actors on both sides and what are there reasons for doing so?
 
+### Crew Contacts
+
+* Another Denizan of the Source
+* 
+
 ## Pilots
 
 Inspirational Media: [Super Sentai (and it's American counterpart Power Rangers)](http://powerrangers.wikia.com/wiki/RangerWiki), [Voltron](http://voltron.wikia.com/wiki/Voltron_Wiki)
 
-Pilots are front and center, dealing with global scale problems right from the start. However they are not always the first to interact with the other planes
+As Pilots use stolen or unauthorized means to acess the Source, thier opposition often comes in the form of those who claim to have "Legitmate" access to the Source.
 
 ### Pilots Upgrades
 
@@ -75,11 +90,13 @@ When you perform a **group action**, you may count multiple 6s from different ro
 
 ### Pilot Missions
 
+### Crew Contacts
+
 ## Giants
 
 Inspirational Media: [Ultra Series](http://ultra.wikia.com/wiki/Ultraman_Wiki)
 
-Giants deal in multiple worlds. Both in the multiple realms of existence and in global scale conflicts
+Giants were empowered directly by the Source itself. They often find themselves in conflict with the Source itself.
 
 ### Giant Upgrades
 
@@ -90,3 +107,10 @@ Giants deal in multiple worlds. Both in the multiple realms of existence and in 
 ### Giant Missions
 
 * The heir apparent of another world is partying on Earth, there are rumors of an assassination attempt will be made on them. Why and who are after the heir.
+
+### Crew Contacts
+
+* Military Officer
+* Research Scienctist
+* Government Covert-Ops Agent
+* Ambassador

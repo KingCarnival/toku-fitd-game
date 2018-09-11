@@ -19,6 +19,8 @@ You have 3 specialized forms for different tasks (ie Underwater Combat, Stealthy
 
 Inspirational Media: [Kamen Rider](http://kamenrider.wikia.com/wiki/Kamen_Rider_Wiki)
 
+Wheter willingly or not all Riders are expirements that involved the Source. 
+
 The Rider playbook represent heroes who act on more grounded scale than some of the other playbooks. The stakes of a Rider game are more likely to start smaller with the Villains acts being focused on more Political Mechanizations compared to the world shattering stakes of Pilots or Giants. Additionally in terms of visiting other realms of existence riders have the least interaction with those.
 
 ### Rider Upgrades

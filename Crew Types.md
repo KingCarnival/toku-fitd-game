@@ -11,6 +11,10 @@ Giants| Empowered directly form the Source
 
 ## Crew Upgrades
 
+#### Crew Training
+
+Mark **2 XP** in the apporiate category instead of 1 when taking the downtime **train** action.
+
 #### Specialized Forms
 
 You have 3 specialized forms for different tasks (ie Underwater Combat, Stealthy, etc.). When in one of these forms and acting in that specialty you gain **potency**. Decide the specialties when this upgrade is purchased.
@@ -57,7 +61,7 @@ Scouts are given thier power by a representative of the Source. As a result of s
 
 ### Special Abilities
 
-### Patron
+#### Patron
 
 ### Group Items
 

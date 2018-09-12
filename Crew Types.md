@@ -7,7 +7,7 @@ Crew|Relation to the Source
 Riders| Experimented on with the Source
 Scouts| Powers delivered from a representative from/or the Source
 Pilots| Stole power from the Source through unexpected or unauthorized means
-Giant| Empowered directly form the Source
+Giants| Empowered directly form the Source
 
 ## Crew Upgrades
 

@@ -68,7 +68,9 @@ Scouts are given thier power by a representative of the Source. As a result of s
 ### Crew Contacts
 
 * Another Denizan of the Source
-* 
+* Contract Killer
+* Local Celebrity
+* City Event Planner
 
 ## Pilots
 
@@ -91,6 +93,11 @@ When you perform a **group action**, you may count multiple 6s from different ro
 ### Pilot Missions
 
 ### Crew Contacts
+
+* Local Junk Dealer
+* Conspiracy Theorist
+* News Mongul
+* Experimental Physicist
 
 ## Giants
 

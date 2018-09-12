@@ -2,7 +2,9 @@
 
 ## Breaker
 
-You are the muscle. The first to charge the line of the monsters and the last to leave
+You are the muscle. The first to charge the line of the monsters and the last to leave.
+
+**When playing as a Breaker you gain XP when addressing challegnges with force.** 
 
 ### Starting Actions
 
@@ -14,9 +16,7 @@ You are the muscle. The first to charge the line of the monsters and the last to
 
 #### Unstoppable
 
-You can push yourself to do one of the following: perform a feat
-of physical force that verges on the superhuman—engage a small
-gang on equal footing in close combat.
+You can push yourself to do one of the following: perform a feat of physical force that verges on the superhuman—engage a small gang on equal footing in close combat.
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 A superhuman feat is one a regular person could not do unassisted, such as tearing apart metal handcuffs. If you engage a small gang on equal footing, you have equal scale.
@@ -36,6 +36,8 @@ Choose a special ability from another source.
 ## Oddball
 
 Your methods might seem unorthodox but people can't argue with your results
+
+**When playing as the Oddball you gain XP when addressing challengenes with bold or audacious tactics**
 
 ### Starting Ability
 
@@ -57,6 +59,8 @@ Choose a special ability from another source.
 
 You worked for the monsters (whether willingly or not) until you saw your chance to escape, now you take advantage of your old contacts to strike back
 
+**When playing as the Renegade you gain XP when addressing challengenes with deception or influence**
+
 ### Starting Actions
 
 #### Starting Builds
@@ -64,6 +68,10 @@ You worked for the monsters (whether willingly or not) until you saw your chance
 ### Dangerous Allies
 
 ### Starting Ability
+
+#### Ear to the Ground
+
+You gain an extra **downtime** activity to **acquire assets** to **lay low**.
 
 ### Special Abilities
 
@@ -111,6 +119,8 @@ Choose a special ability from another source.
 
 The invaders brought all sorts of new tech and you cant wait to mess with it.
 
+**When playing as a Techie you gain XP when addressing challenges using technical know-how and ingenuity**
+
 ### Starting Actions
 
 #### Starting Builds
@@ -133,7 +143,9 @@ Choose a special ability from another source.
 
 ## Theurgist
 
-The world has laws that are just being discovered buy humanity, the opposition may have a head start when has that stopped you
+The world has laws that are just being discovered buy humanity, the opposition may have a head start when has that stopped you.
+
+**When playing as the Theurgist you gain XP when addressing challenges with mysticism or wisdom**
 
 ### Starting Actions
 

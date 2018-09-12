@@ -131,9 +131,9 @@ The world has laws that are just being discovered buy humanity, the opposition m
 
 #### Mystic Wisdom
 
-You can spend a gambit instead of paying any stress cost.
+You can spend a Hero Point instead of paying any stress cost.
 
-> Any time you need to spend stress, you may spend a gambit instead. This includes resistances and push costs. For abilities that have a variable cost, such as Sundering, those additional costs are all part of the same activation, so the push and all additional features together only costs one gambit.
+> Any time you need to spend stress, you may spend a Hero Point instead. This includes resistances and push costs. For abilities that have a variable cost, such as Sundering, those additional costs are all part of the same activation, so the push and all additional features together only costs one Hero Point.
 
 ### Special Abilities
 

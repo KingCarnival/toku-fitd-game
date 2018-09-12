@@ -23,6 +23,12 @@ A superhuman feat is one a regular person could not do unassisted, such as teari
 
 ### Special Abilities
 
+#### Bodyguard
+
+When you protect a teammate, take **+1d** to your **resist** roll. When you take **harm** clear **1 stress**.
+
+> The protect teamwork maneuver lets you face a consequence for a teammate.
+
 #### Veteran
 
 Choose a special ability from another source.
@@ -35,11 +41,13 @@ Your methods might seem unorthodox but people can't argue with your results
 
 #### Devil's Own Luck
 
-Your crew starts with **+1 gambit** when the pool resets
+Your crew starts with **+1 Hero Point** when the pool resets
 
 ### Special Abilities
 
-blah 2
+#### Daredevil
+
+When you roll a desperate action, you get **+1d** to your roll if you also take **-1d** to any resistance rolls against consequences from your action.
 
 #### Veteran
 
@@ -70,6 +78,12 @@ During downtime, you get **+1 result level** when you **acquire an asset** or **
 When you indulge your **vice**, you may adjust the dice outcome by +/-2. An ally who joins you may do the same.
 
 > Any ally must join you in whatever vice you’re indulging. You can adjust the outcome by less than 2, or not adjust it at all. You can also recover more than 6 stress on a vice roll this way.
+
+#### Pants on Fire
+
+You always know when someone is lying to you.
+
+> This is always on with no restrictions. Have fun knowing every little lie.
 
 #### Veteran
 

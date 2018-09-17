@@ -117,7 +117,7 @@ You may push yourself to one of the following: Overcome a phyiscal obsticle thro
 
 > When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1d, +1 effect, etc.) in addition to the special ability.
 > Overcoming an obstical can mean many things depending on how you characacter was experimented on, either phasing through a wall Becoming liquid to move through the pores or walking right through it.
-> If you take on the appearance of a monster, you have the same terrifying effect that supernatural entities do. You may look like whatever monster you choose.
+> If you take on the appearance of a monster, Anyone who sees you is Frightened. You gain **potency** against supernatural beings. You may look like whatever monster you choose.
 
 ### Special Abilities
 

@@ -7,9 +7,13 @@ Crew|Relation to the Source
 Riders| Experimented on with the Source
 Scouts| Powers delivered from a representative from/or the Source
 Pilots| Stole power from the Source through unexpected or unauthorized means
-Giant| Empowered directly form the Source
+Giants| Empowered directly form the Source
 
 ## Crew Upgrades
+
+#### Crew Training
+
+Mark **2 XP** in the apporiate category instead of 1 when taking the downtime **train** action.
 
 #### Specialized Forms
 
@@ -57,7 +61,7 @@ Scouts are given thier power by a representative of the Source. As a result of s
 
 ### Special Abilities
 
-### Patron
+#### Patron
 
 ### Group Items
 
@@ -68,7 +72,9 @@ Scouts are given thier power by a representative of the Source. As a result of s
 ### Crew Contacts
 
 * Another Denizan of the Source
-* 
+* Contract Killer
+* Local Celebrity
+* City Event Planner
 
 ## Pilots
 
@@ -91,6 +97,11 @@ When you perform a **group action**, you may count multiple 6s from different ro
 ### Pilot Missions
 
 ### Crew Contacts
+
+* Local Junk Dealer
+* Conspiracy Theorist
+* News Mongul
+* Experimental Physicist
 
 ## Giants
 
